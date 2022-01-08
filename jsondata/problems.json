@@ -1,0 +1,73 @@
+{
+    "jsoon":{
+        "problems":[
+            {"title":"Road","value":"Road"},
+            {"title":"Electricity","value":"Electricity"},
+            {"title":"Drainage","value":"Drainage"},
+            {"title":"Water Shortage","value":"Water Shortage"},
+            {"title":"Pollution","value":"Pollution"},
+            {"title":"Hospital","value":"Hospital"}
+        ],
+        "problemMainLocation":[
+            {"location":"Ghartan Pada"},
+            {"location":"Kokani Pada"},
+            {"location":"Rawal Pada"},
+            {"location":"Awduth Nagar"},
+            {"location":"Anand Nagar"},
+            {"location":"NL Complex"},
+            {"location":"Ketkipada"},
+            {"location":"Dharkhadi"},
+            {"location":"Dimond Industrial Estate"},
+            {"location":"Vaishali Nagar"},
+            {"location":"Dahisar Check Naka"},
+            {"location":"Charkop Gaon"},
+            {"location":"Charkop Industry"},
+            {"location":"Charkop Sector No. 1"},
+            {"location":"Bundarpakhadi"},
+            {"location":"Thakur College"},
+            {"location":"Janupada"},
+            {"location":"Dahanukar Wadi"},
+            {"location":"Shravan Nagar"},
+            {"location":"Hanuman Nagar"},
+            {"location":"Vadarpada"},
+            {"location":"Thakur Village"},
+            {"location":"Mahavir Nagar"},
+            {"location":"Ekta Nagar"}
+        ],
+        "problemMainWard":{
+            "RNorth":[
+                {"location":"Ghartan Pada"},
+                {"location":"Kokani Pada"},
+                {"location":"Rawal Pada"},
+                {"location":"Awduth Nagar"},
+                {"location":"Anand Nagar"},
+                {"location":"NL Complex"},
+                {"location":"Ketkipada"},
+                {"location":"Dharkhadi"},
+                {"location":"Dimond Industrial Estate"},
+                {"location":"Vaishali Nagar"},
+                {"location":"Dahisar Check Naka"}
+            ],
+            "RSouth":[
+                {"location":"Charkop Gaon"},
+                {"location":"Ekta Nagar"},
+                {"location":"Charkop Industry"},
+                {"location":"Charkop Sector No. 1"},
+                {"location":"Bundarpakhadi"},
+                {"location":"Thakur College"},
+                {"location":"Janupada"},
+                {"location":"Dahanukar Wadi"},
+                {"location":"Shravan Nagar"},
+                {"location":"Hanuman Nagar"},
+                {"location":"Vadarpada"},
+                {"location":"Thakur Village"},
+                {"location":"Mahavir Nagar"}
+            ]
+        },
+        "wards":[
+            {"ward":"RNorth"},
+            {"ward":"RSouth"}
+        ]
+    }
+    
+}
